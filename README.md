@@ -6,3 +6,11 @@ Installation Steps:
 2. pip install -e .
 
 data link https://drive.google.com/drive/folders/1njo2BXWDHMgchrAByPcFdTSnEW-bkzCW?usp=drive_link
+
+
+rmse,nrmse 
+
+r-square
+
+
+gemini banana picture
