@@ -1,4 +1,4 @@
-# OmicsMind - A Transformer Based Multi-omics Data Imputation Tool
+# OmicsMind: A Transformer Based Multi-omics Data Imputation Tool
 
 ## Requirements
 OmicsMind requires Python 3.8+ and standard machine learning libraries such as PyTorch and NumPy.
@@ -6,17 +6,17 @@ OmicsMind requires Python 3.8+ and standard machine learning libraries such as P
 ## Installation Steps:
 1. Clone or download this project.
 2. Inside the OmicsMind directory, run:
-'''pip install -e .'''
-This installs OmicsMind in editable/development mode, allowing you to modify the code while keeping the package importable.
+```pip install -e .```
 
 ## Running the Examples:
 To try out the provided multi-omics imputation examples:
 1. Download the example datasets from: https://drive.google.com/drive/folders/1njo2BXWDHMgchrAByPcFdTSnEW-bkzCW?usp=drive_link
 2. Place the downloaded files into: 
-'''Examples/data'''
+```Examples/data```
 3. Open Jupyter Lab or Jupyter Notebook and run one of the example notebooks:
-''' Examples/run_GBM.ipynb
-Examples/run_OOL.ipynb'''
+``` Examples/run_GBM.ipynb
+Examples/run_OOL.ipynb
+```
 These notebooks demonstrate how OmicsMind performs block-missing imputation on multi-omics datasets.
 
 ## Project Description
