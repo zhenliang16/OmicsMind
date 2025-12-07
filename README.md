@@ -14,8 +14,9 @@ To try out the provided multi-omics imputation examples:
 2. Place the downloaded files into: 
 ```Examples/data```
 3. Open Jupyter Lab or Jupyter Notebook and run one of the example notebooks:
-``` Examples/run_GBM.ipynb ``` or ``` Examples/run_OOL.ipynb ```
-These notebooks demonstrate how OmicsMind performs block-missing imputation on multi-omics datasets.
+``` Examples/run_GBM.ipynb ``` 
+or 
+``` Examples/run_OOL.ipynb ```
 
 ## Project Description
 OmicsMind is a generative AI–powered imputation toolkit designed to recover missing values in multi-omics datasets.
