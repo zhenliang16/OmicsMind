@@ -10,8 +10,9 @@ Requires-Dist: numpy
 Requires-Dist: scikit-learn
 Requires-Dist: tqdm
 Requires-Dist: torch
-Requires-Dist: seaborn
 Requires-Dist: matplotlib
+Requires-Dist: plotly
+Requires-Dist: kaleido
 Dynamic: author
 Dynamic: author-email
 Dynamic: license-file

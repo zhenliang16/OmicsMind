@@ -3,5 +3,6 @@ numpy
 scikit-learn
 tqdm
 torch
-seaborn
 matplotlib
+plotly
+kaleido

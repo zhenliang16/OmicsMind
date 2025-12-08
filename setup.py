@@ -16,7 +16,8 @@ setuptools.setup(
         "scikit-learn",
         "tqdm",
         "torch",
-        "seaborn",
         "matplotlib",
+        "plotly",
+        "kaleido",
     ],
 )
