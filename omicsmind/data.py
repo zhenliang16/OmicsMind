@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import os, random, warnings
+from torch.utils.data import Dataset, DataLoader
 
 
 def load_omics_table(path):

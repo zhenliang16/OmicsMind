@@ -9,12 +9,14 @@ setuptools.setup(
     author="Zhen Liang",
     author_email="zliang16@ubc.ubc.ca",
     description="Transformer based multi-omics data fill tool",
-    packages=["stabl"],
+    packages=["omicsmind"],
     install_requires=[
         "pandas",
         "numpy",
         "scikit-learn",
         "tqdm",
         "torch",
+        "seaborn",
+        "matplotlib",
     ],
 )
