@@ -19,5 +19,6 @@ setuptools.setup(
         "matplotlib",
         "plotly",
         "kaleido",
+        "jupyter",
     ],
 )
