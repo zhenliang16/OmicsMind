@@ -1,4 +1,4 @@
-# OmicsMind: A Transformer Based Multi-omics Data Imputation Tool
+# OmicsMind: A VAE-Transformer Based Multi-omics Data Imputation Tool
 
 ## Requirements
 OmicsMind requires Python 3.8+ and standard machine learning libraries such as PyTorch and NumPy.
